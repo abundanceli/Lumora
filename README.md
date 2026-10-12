@@ -1,4 +1,4 @@
-# Lumora
+# LiLumora
 
 **Illuminate understanding. Turn knowledge into practice.**
 
