@@ -1,8 +1,8 @@
-# Limora
+# Lilumora
 
-**Illuminate understanding. Turn knowledge into practice.**
+**surfing the learning wave. **
 
-Lumora is an instructor-guided AI learning prototype that connects concept-level learning evidence, focused student–instructor discussion, and equitable hands-on laboratory opportunity.
+Limora is an instructor-guided AI learning prototype that connects concept-level learning evidence, focused student–instructor discussion, and equitable hands-on laboratory opportunity.
 
 This repository is intentionally a **narrow public demo**, not a production learning-management system. It demonstrates one complete workflow in **Advanced Fluid Mechanics**:
 
@@ -10,12 +10,12 @@ This repository is intentionally a **narrow public demo**, not a production lear
 2. Objective items are scored deterministically.
 3. Written reasoning is evaluated against an instructor-defined rubric in deterministic demo mode or optional live-AI mode.
 4. Evidence is mapped to possible concept-level knowledge gaps.
-5. **Lumora Insight** summarizes the learning evidence without turning it into a definitive label.
-6. **Lumora Bridge** produces focused questions for student–instructor discussion.
+5. **LiLumora Insight** summarizes the learning evidence without turning it into a definitive label.
+6. **LiLumora Bridge** produces focused questions for student–instructor discussion.
 7. The instructor dashboard shows class-level patterns and explicit review controls.
-8. **Lumora Lab** decomposes a pipe-flow laboratory into eight observable tasks and proposes an opportunity-aware individual role while keeping instructor approval in the loop.
+8. **LiLumora Lab** decomposes a pipe-flow laboratory into eight observable tasks and proposes an opportunity-aware individual role while keeping instructor approval in the loop.
 
-## Why Lumora is not a generic chatbot
+## Why LiLumora is not a generic chatbot
 
 Lumora uses a small LangGraph workflow with explicit state and node responsibilities:
 
