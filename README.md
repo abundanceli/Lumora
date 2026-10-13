@@ -8,7 +8,7 @@
   <strong>Surf the Learning Wave.</strong>
 </p>
 
-Limora is an instructor-guided AI learning prototype that connects concept-level learning evidence, focused student–instructor discussion, and equitable hands-on laboratory opportunity.
+Lilumora is an instructor-guided AI learning prototype that connects concept-level learning evidence, focused student–instructor discussion, and equitable hands-on laboratory opportunity.
 
 This repository is intentionally a **narrow public demo**, not a production learning-management system. It demonstrates one complete workflow in **Advanced Fluid Mechanics**:
 
