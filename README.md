@@ -1,6 +1,12 @@
 # Lilumora
 
-**surfing the learning wave. **
+<p align="center">
+  <img src="./lilumora-logo.png" alt="Lilumora — surfing the learning curve" width="500">
+</p>
+
+<p align="center">
+  <strong>Surf the Learning Wave.</strong>
+</p>
 
 Limora is an instructor-guided AI learning prototype that connects concept-level learning evidence, focused student–instructor discussion, and equitable hands-on laboratory opportunity.
 
