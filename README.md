@@ -41,12 +41,12 @@ The design deliberately uses deterministic rules where possible and model reason
 
 ## Product modules
 
-- **Lumora Learn** — personalized lessons, diagnostics, confidence reporting, and feedback
-- **Lumora Insight** — concept-level knowledge-gap evidence and class analytics
-- **Lumora Bridge** — focused student–instructor questions and escalation
-- **Lumora Lab** — practical task allocation, role rotation, and group formation
-- **Lumora Assess** — future adaptive assessment under a shared competency blueprint
-- **Lumora Profile** — future permission-controlled longitudinal learning record
+- **LiLumora Learn** — personalized lessons, diagnostics, confidence reporting, and feedback
+- **LiLumora Insight** — concept-level knowledge-gap evidence and class analytics
+- **LiLumora Bridge** — focused student–instructor questions and escalation
+- **LiLumora Lab** — practical task allocation, role rotation, and group formation
+- **LiLumora Assess** — future adaptive assessment under a shared competency blueprint
+- **LiLumora Profile** — future permission-controlled longitudinal learning record
 
 ## Run locally
 
@@ -146,4 +146,4 @@ The next architecture layer is a permission-controlled longitudinal learner prof
 
 ---
 
-**Lumora principle:** AI should create better human learning interactions, not replace the instructor or the laboratory.
+**LiLumora principle:** AI should create better human learning interactions, not replace the instructor or the laboratory.
